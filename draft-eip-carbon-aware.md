@@ -65,7 +65,7 @@ TODO Abstract
 
 # Introduction
 
-TODO Introduction
+This is the introduction
 
 
 # Conventions and Definitions
