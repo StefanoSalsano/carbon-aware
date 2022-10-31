@@ -6,18 +6,18 @@ category: info
 docname: draft-eip-carbon-aware-latest
 submissiontype: independent  # also: "independent", "IAB", or "IRTF", "IETF"
 ipr: trust200902
-area: AREA
-workgroup: SIG on EIP
+# area: AREA
+# workgroup: SIG on EIP
 keyword:
  - IPv6
  - Extension Headers
 venue:
-  group: EIP
-  type: SIG
-  mail: eip@cnit.it
-  arch: http://postino.cnit.it/cgi-bin/mailman/private/eip/
-  github: eip-home/eip-headers
-  latest: https://eip-home.github.io/eip-headers/draft-eip-headers-definitions.html
+#  group: EIP
+#  type: SIG
+#  mail: eip@cnit.it
+#  arch: http://postino.cnit.it/cgi-bin/mailman/private/eip/
+  github: "StefanoSalsano/carbon-aware"
+  latest: "https://StefanoSalsano.github.io/carbon-aware/draft-eip-carbon-aware.html"
 
 stand_alone: yes
 smart_quotes: no
